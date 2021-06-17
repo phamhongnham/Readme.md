@@ -1,3 +1,6 @@
+👋 
+I'm Nham. I'm a dev, embedded software and electric designer.
+
 <table>
   <tr>
     <td>
