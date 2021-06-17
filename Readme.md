@@ -1,5 +1,13 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamhongnham&show_icons=true&theme=radical)
-
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongnham&theme=radical" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=phamhongnham&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ### Languages and Tools:
 
