@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Nham. I'm developer, electric designer and embedded software.
 
+![1]( https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif)
+
 <table>
   <tr>
     <td>
