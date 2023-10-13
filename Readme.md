@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nham. I'm developer, electric designer and embedded software.
+My name is Nham. I'm electric designer, 3d designer, software dev and embedded dev.
 
 ![1]( https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif)
 
